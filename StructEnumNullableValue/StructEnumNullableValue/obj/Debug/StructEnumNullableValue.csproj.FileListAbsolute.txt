@@ -1,0 +1,6 @@
+E:\P315\StructEnumNullableValue\StructEnumNullableValue\bin\Debug\StructEnumNullableValue.exe.config
+E:\P315\StructEnumNullableValue\StructEnumNullableValue\bin\Debug\StructEnumNullableValue.exe
+E:\P315\StructEnumNullableValue\StructEnumNullableValue\bin\Debug\StructEnumNullableValue.pdb
+E:\P315\StructEnumNullableValue\StructEnumNullableValue\obj\Debug\StructEnumNullableValue.csprojAssemblyReference.cache
+E:\P315\StructEnumNullableValue\StructEnumNullableValue\obj\Debug\StructEnumNullableValue.exe
+E:\P315\StructEnumNullableValue\StructEnumNullableValue\obj\Debug\StructEnumNullableValue.pdb

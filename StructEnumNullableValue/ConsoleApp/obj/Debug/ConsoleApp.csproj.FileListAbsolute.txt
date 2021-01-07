@@ -1,0 +1,6 @@
+E:\P315\StructEnumNullableValue\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+E:\P315\StructEnumNullableValue\ConsoleApp\bin\Debug\ConsoleApp.exe
+E:\P315\StructEnumNullableValue\ConsoleApp\bin\Debug\ConsoleApp.pdb
+E:\P315\StructEnumNullableValue\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+E:\P315\StructEnumNullableValue\ConsoleApp\obj\Debug\ConsoleApp.exe
+E:\P315\StructEnumNullableValue\ConsoleApp\obj\Debug\ConsoleApp.pdb
